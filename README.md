@@ -41,7 +41,19 @@ This portfolio showcases my research, code, data visualization, and innovation p
   📄 [Project Summary](./outreach/stem_selco_project_summary.pdf)
 
 ---
+## 📝 Writing & Science Communication
 
+### 🧠 Brainy Bytes – Science Blog
+Short reflections on materials, droplets, and the physics of everyday life.  
+🔗 [Read on WordPress](https://parusmadworld.wordpress.com/category/brainy-bytes/)
+
+I write *Brainy Bytes* to make science feel less distant. Every post is a blend of curiosity, storytelling, and insight, shaped by my research in microfluidics and nature-inspired systems.
+
+### ✍️ Surface Stories – Medium
+Accessible essays on science, surfaces, and seeing differently  
+🔗 [Read on Medium](https://medium.com/@sushmithavinikumar)
+
+---
 ## 📜 Full CV
 
 📄 [Download My CV (PDF)](https://www.overleaf.com/read/your-overleaf-link)
