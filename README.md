@@ -1,35 +1,54 @@
-# [Your Name] – Scientific Research Portfolio
+# 👩‍🔬 Sushmitha Vinikumar – Scientific Research Portfolio
 
-Welcome to my scientific research portfolio! Here you can find information about my research projects, publications, datasets, and more.
+Welcome to my research portfolio! I’m a materials scientist and microfluidics researcher with a background in nanoscience, smart surfaces, and interfacial fluid dynamics. My PhD thesis explores fluid phenomena on intrinsically charged surfaces (lithium niobate), with applications in biosensors and antibacterial coatings.
 
-## About Me
-
-_A brief introduction about yourself, your research interests, current position, and institution._
-
-## 🚀 Projects
-
-- [Project 1](projects/project1/README.md)
-- [Project 2](projects/project2/README.md)
-- _Add more projects as needed_
-
-## 📄 Publications
-
-- [Publication Title 1](publications/your-publication-1.pdf)  
-  _Authors, Journal/Conference, Year_
-- [Publication Title 2](publications/your-publication-2.pdf)  
-  _Authors, Journal/Conference, Year_
-
-## 📊 Datasets & Code
-
-- [Dataset/Analysis 1](datasets/dataset1/)
-- _Add relevant datasets or code repositories_
-
-## 📄 [My CV](cv/your-cv.pdf)
-
-## 📬 Contact
-
-You can reach me at: [your.email@example.com]
+This portfolio showcases my research, code, data visualization, and innovation projects.
 
 ---
 
-_Thank you for visiting my portfolio!_
+## 🔬 Research Highlights
+
+- **Evaporation & Spreading on Lithium Niobate**  
+  Studied droplet dynamics and evaporation on ferroelectric surfaces.  
+  📄 [Paper: ChemPhysChem, 2024](./publications/evaporation_liNbO3_summary.pdf)
+
+- **Electroosmotic Flow in Microchannels**  
+  Modeled surface-driven flow in LiNbO₃ microchannels.  
+  💻 [MATLAB Simulation](./code/wetting_analysis_matlab.m)
+
+- **Smart Antibacterial Surfaces**  
+  Designed and tested responsive antibacterial coatings using ferroelectric substrates.  
+  📄 [Spreading Paper (2023)](./publications/spreading_dynamics_paper.pdf)
+
+---
+
+## 💡 Code & Tools
+
+- 🧪 [ImageJ Macro](./code/droplet_tracking_imagej.ijm) – Droplet tracking on time-lapse images
+- 📈 [Python Electroflow Simulation](./code/electroflow_simulation.py)
+- 📊 [Power BI Dashboard (PDF)](./dashboards/lithium_evaporation_dashboard.pdf)
+
+---
+
+## 🌱 Other Projects
+
+- **AgriTech Startup Concept**  
+  Early-stage prototyping of automated weed cutter
+  📄
+
+- **STEM Outreach with SELCO Foundation**  
+  Community-based sustainability and science learning  
+  📄 [Project Summary](./outreach/stem_selco_project_summary.pdf)
+
+---
+
+## 📜 Full CV
+
+📄 [Download My CV (PDF)](https://www.overleaf.com/read/your-overleaf-link)
+
+---
+
+## 📫 Contact
+
+📧 sushmitha.vini@gmail.com  
+🌐 [LinkedIn](https://www.linkedin.com/in/sushmitha-vinikumar)  
