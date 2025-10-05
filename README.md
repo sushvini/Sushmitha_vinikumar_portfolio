@@ -54,9 +54,9 @@ Accessible essays on science, surfaces, and seeing differently
 🔗 [Read on Medium](https://medium.com/@sushmithavinikumar)
 
 ---
-## 📜 Full CV
 
-📄 [Download My CV (PDF)](https://www.overleaf.com/read/your-overleaf-link)
+## 📜 Full CV
+📄 [View / Download My CV](./cv.md)
 
 ---
 
