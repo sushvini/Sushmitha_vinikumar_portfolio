@@ -1,6 +1,7 @@
 # 👩‍🔬 Sushmitha Vinikumar – Scientific Research Portfolio
 
 Welcome to my research portfolio! I’m a materials scientist and microfluidics researcher with a background in nanoscience, smart surfaces, and interfacial fluid dynamics. My PhD thesis explores fluid phenomena on intrinsically charged surfaces (lithium niobate), with applications in biosensors and antibacterial coatings.
+Welcome to my research portfolio! I’m a materials scientist and microfluidics researcher with a background in nanoscience, smart surfaces, and interfacial fluid dynamics. My PhD thesis explores fluid phenomena on intrinsically charged surfaces (lithium niobate), with applications in biosensors, microfluidics, and antibacterial coatings.
 
 This portfolio showcases my research, code, data visualization, and innovation projects.
 
@@ -8,19 +9,18 @@ This portfolio showcases my research, code, data visualization, and innovation p
 
 ## 🔬 Research Highlights
 
-- **Evaporation & Spreading on Lithium Niobate**  
-  Studied droplet dynamics and evaporation on ferroelectric surfaces.  
-  📄 [Paper: ChemPhysChem, 2024](./publications/evaporation_liNbO3_summary.pdf)
-
 - **Electroosmotic Flow in Microchannels**  
-  Modeled surface-driven flow in LiNbO₃ microchannels.  
-  💻 [MATLAB Simulation](./code/wetting_analysis_matlab.m)
+  designed and fabricated a microchannel for particle tracking to monitor electroosmotic flow on intrinsically charged surfaces
+  
+## 🔬 Research  Publication
 
-- **Smart Antibacterial Surfaces**  
-  Designed and tested responsive antibacterial coatings using ferroelectric substrates.  
-  📄 [Spreading Paper (2023)](./publications/spreading_dynamics_paper.pdf)
-
----
+- **Evaporation & Droplet Spreading on Lithium Niobate**  
+  Investigated fluid phenomena on intrinsically charged lithium niobate surfaces, including wetting, spreading, and evaporation behavior.  
+  📄 [ChemPhysChem, 2024 – Evaporation Dynamics on a Lithium Niobate Surface](https://doi.org/10.1002/cphc.202400076)  
+  📄 [Colloids and Surfaces A, 2023 – Spreading dynamics on lithium niobate](https://doi.org/10.1016/j.colsurfa.2023.131792)
+- **Bio mimicking nanochannels**
+Designing artificial cellular models with enzyme-driven, pH-responsive nanochannel transport
+- Bio-inspired temporal regulation of ion-transport in nanochannels†( DOI	https://doi.org/10.1039/C8NA00414E)
 
 ## 💡 Code & Tools
 
@@ -32,14 +32,15 @@ This portfolio showcases my research, code, data visualization, and innovation p
 
 ## 🌱 Other Projects
 
-- **AgriTech Startup Concept**  
-  Early-stage prototyping of automated weed cutter
-  📄
+- **Agriculture Startup Initiative**  
+  R&D and prototyping of small-scale mechanized agricultural tools, including automated weed-cutting/tilling systems and natural latex coagulation reactors.  
+
+- **Farming Assistant, Family Farm, Karnataka**  
+  Implemented climate-resilient farming strategies: bamboo-based carbon sequestration, drought- and flood-tolerant intercropping, and coconut husk mulching. Conducted field experiments to improve system efficiency.  
 
 - **STEM Outreach with SELCO Foundation**  
-  Community-based sustainability and science learning  
-  📄 [Project Summary](./outreach/stem_selco_project_summary.pdf)
-
+  Designed and delivered STEM-based learning modules for rural schools, integrating renewable energy and practical engineering concepts.  
+  📄 [Project Summary](./outreach/stem_selco_project_summary.pdf)  
 ---
 ## 📝 Writing & Science Communication
 
