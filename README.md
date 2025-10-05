@@ -57,7 +57,7 @@ Accessible essays on science, surfaces, and seeing differently
 ---
 
 ## 📜 Full CV
-📄 [View / Download My CV](./cv1.md)
+📄 [View My CV](./cv1.md)
 
 ---
 
