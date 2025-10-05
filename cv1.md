@@ -2,7 +2,7 @@
 
 ## Contact
 - **Email:** [sushmitha.vini@gmail.com](mailto:sushmitha.vini@gmail.com)  
-- **Phone:** +91 99029 38341  
+- **Phone:** 
 - **Location:** Ujire, Karnataka, India  
 - **ORCID:** 0000-0003-4083-9006  
 
@@ -23,7 +23,7 @@ Microfluidics, Lab-on-a-Chip systems, Hydrogels, Wetting, Nanomaterials, Polymer
 ## Research Experience
 - **PhD Student** (11/2018–02/2024) – RPTU Kaiserslautern-Landau, Germany  
   *Advisor:* Dr. Clarissa Schönecker  
-  Studied fluid phenomena on lithium niobate, intrinsically charged microchannels, wetting, evaporation, antibacterial surfaces  
+  Studied fluid phenomena on lithium niobate, intrinsically charged microchannels, wetting, evaporation, and antibacterial surfaces  
 
 - **Master Student Researcher** (01/2017–07/2017) – JNCASR, Bangalore, India  
   *Advisor:* Dr. Muthusamy Eswaramoorthy  
@@ -42,7 +42,7 @@ Microfluidics, Lab-on-a-Chip systems, Hydrogels, Wetting, Nanomaterials, Polymer
 - **M.Sc. Nanoscience and Technology**, Manipal Academy of Higher Education, India (2015–2017)  
   Thesis: *General Approaches to Obtain Transient Functional Material and Energy Dissipative Transient Functional System*  
 
-- **B.Sc. Physics, Mathematics and Statistics**, SDM College, Ujire, India (2011–2014)
+- **B.Sc. Physics, Mathematics, and Statistics**, SDM College, Ujire, India (2011–2014)
 
 ---
 
@@ -67,7 +67,7 @@ Microfluidics, Lab-on-a-Chip systems, Hydrogels, Wetting, Nanomaterials, Polymer
   Led R&D and prototyping of small-scale mechanized agricultural tools; optimized mechanical and material performance  
 
 - **Farming Assistant** (11/2017–10/2018, 03/2024–present) – Family Farm, Karnataka  
-  Implemented climate-resilient farming strategies including bamboo-based carbon sequestration, intercropping, and coconut husk mulching; conducted data-driven field experiments  
+  Implemented climate-resilient farming strategies, including bamboo-based carbon sequestration, intercropping, and coconut husk mulching; conducted data-driven field experiments  
 
 ---
 
