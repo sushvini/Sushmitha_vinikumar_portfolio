@@ -1,7 +1,7 @@
 # 👩‍🔬 Sushmitha Vinikumar – CV
 
 ## Contact
-- **Email:** [sushmitha.vini@gmail.com](mailto:sushmitha.vini@gmail.com)  
+- **Email:** [sushmithavinikumar@gmail.com](mailto:sushmithavinikumar@gmail.com)  
 - **Phone:** 
 - **Location:** Ujire, Karnataka, India  
 - **ORCID:** 0000-0003-4083-9006  
